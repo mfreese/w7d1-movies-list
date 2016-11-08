@@ -11,7 +11,7 @@ movies.push({
   director: "Tony Scott",
   genre: "Action",
   year: "1986",
-  stars: ["Tom Cruise, Vall Kilmer, Kelly Mcgillis"]
+  stars: ["Tom Cruise, Val Kilmer, Kelly Mcgillis"]
 })
 movies.push({
   title: "Batman",
